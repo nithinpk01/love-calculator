@@ -36,7 +36,7 @@
             Love Match:
             <span class="percentage">{{ result }}%</span>
           </p>
-          <p class="message">{{ message }}</p>
+          <!-- <p class="message">{{ message }}</p> -->
         </div>
       </div>
     </div>
