@@ -1,4 +1,4 @@
-# love-calulater
+# love-calculater
 
 ## Project setup
 ```
@@ -22,4 +22,5 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
 url : https://love-calculator-12dde.web.app
